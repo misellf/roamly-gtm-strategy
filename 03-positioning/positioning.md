@@ -16,7 +16,7 @@ Roamly Groups lets friends book curated local experiences together, with a share
 
 ### Pressure test
 - **Test I ran:** B · Competitor discomfort
-- **What it revealed:** As an Airbnb product leader: I couldn’t use it word for word today. “Curated local experiences” and group bookings overlap with what Airbnb offers, and we have group messaging after a reservation is confirmed. But Airbnb doesn’t let guests split a paid-in-full reservation across multiple payment methods. www.airbnb.com
+- **What it revealed:** As an Airbnb product leader: I couldn’t use it word for word today. “Curated local experiences” and group bookings overlap with what Airbnb offers, and we have group messaging after a reservation is confirmed. But Airbnb doesn’t let guests split a paid-in-full reservation across multiple payment methods. 
 
 The most ownable part is that friends can plan and pay together without one person carrying the coordination or the full upfront cost. That distinction holds only if Roamly delivers both in the actual booking flow; otherwise, the statement risks sounding like a promise any competitor could make.
 
