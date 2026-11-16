@@ -35,3 +35,5 @@ Pay their share through the group booking flow.
 - **Social post:** “Planning a Roamly experience with friends? Start one group booking, share the itinerary, and let everyone pay their share—without becoming the group’s coordinator and covering the bill upfront.”
 - **Product tour opening line:** “Start your group booking, invite your friends, and keep the itinerary and everyone’s share of the cost together.”
 - **In-app notification:** “Your group plan is ready to share. Invite your friends so everyone can see the itinerary and pay their share.”
+
+<img width="1122" height="1402" alt="1386dedb-100b-459e-9e30-b9bbaf6252d1" src="https://github.com/user-attachments/assets/6f9f5020-5b11-48c0-9bea-40a049645e28" />
