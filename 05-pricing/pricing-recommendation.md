@@ -11,18 +11,18 @@
 
 ## 3. Packaging
 
-- **Tiers:**
-  - **Package:** Plan and Invite
+**Tiers:**
+- **Package:** Plan and Invite
   - **Who it's for:** Organizers getting a group started
   - **Rough Price:** Free
   - **Whats included:** Create a group plan, invite friends, and share the itinerary
     
-  - **Package:** Book Together
+- **Package:** Book Together
   - **Who it's for:** Most groups ready to book
   - **Rough Price:** $0 Groups fee
   - **Whats included:** Experience price varies by host. Group booking and split payment; each member pays their share of the experience price
     
-  - **Package:** Custom Group Experience
+- **Package:** Custom Group Experience
   - **Who it's for:** Groups needing a host-defined or larger experience
   - **Rough Price:** Host-priced
   - **Whats included:** No added Groups fee at launch. Explore only after Roamly validates host capacity and demand for customized group bookings
